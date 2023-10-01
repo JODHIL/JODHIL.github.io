@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>example on Hugo Profile</title>
+    <link>https://hugo-profile.netlify.app/tags/example/</link>
+    <description>Recent content in example on Hugo Profile</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Dec 2022 19:53:33 +0530</lastBuildDate><atom:link href="https://hugo-profile.netlify.app/tags/example/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Experience</title>
+      <link>https://hugo-profile.netlify.app/blogs/math/</link>
+      <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
+      
+      <guid>https://hugo-profile.netlify.app/blogs/math/</guid>
+      <description>Having completed high school with a strong foundation in computer science, my journey into the realm of programming began. I eagerly delved into the world of coding, initially focusing on Python and C.
+As I immersed myself in these languages, my proficiency grew steadily, and I found myself increasingly captivated by the intricate art of programming. Beyond the mere acquisition of technical skills, I discovered a profound passion for problem-solving and creative expression through code.</description>
+    </item>
+    
+    <item>
+      <title>Experience with Task</title>
+      <link>https://hugo-profile.netlify.app/blogs/markdown-syntax/</link>
+      <pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
+      
+      <guid>https://hugo-profile.netlify.app/blogs/markdown-syntax/</guid>
+      <description>not the best but still proud. was confusing ngl. but happy for the output.</description>
+    </item>
+    
+  </channel>
+</rss>
